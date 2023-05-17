@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+#id2 {
+	background-color:purple;
+	width:200px;
+	border-left:5px solid green;
+	padding:10px;
+	
+	color:white;
+}
+h1{
+	font-size:20px;
+}
